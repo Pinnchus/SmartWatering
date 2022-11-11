@@ -24,9 +24,13 @@ Forecast
   Selected Zones & Time to OFF (Keep off after run)
 
 Pending
+
 Sensor management
+
 Smart watering using weather forecast data, sensor data
+
 Show Sensor data graphics
 
 IMPORTANT
+
 In order to get touch working, I've replaced the evedev.py (./lib/lv_bindings/driver/linux/evdev.py) with the included one. But it may not be necessary if the classes are extended correctly.
