@@ -5,12 +5,16 @@ SmartWatering works in Raspberry Pi Zero W, with micropython and LVGL.
 Its using 3.5RPI Display with direct FB and touch
 
 Current the following is running ok:
+
 Schedulles & Zones 
   16 Programs With start times -> 8 individual Zones each with individual watering period
 Forecast 
+
   Forecast using openwathermap OneCall API and IP Location autodiscovering using ip-api.com
 
+
 4 Manual programming watering (All modes, can be with start delayed, so you don't need to run after pressing start)
+
   Selected Zones & Time
   Preselected program
   Preselected program to OFF (keep off after run)
