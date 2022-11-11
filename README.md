@@ -16,8 +16,11 @@ Forecast
 4 Manual programming watering (All modes, can be with start delayed, so you don't need to run after pressing start)
 
   Selected Zones & Time
+  
   Preselected program
+  
   Preselected program to OFF (keep off after run)
+  
   Selected Zones & Time to OFF (Keep off after run)
 
 Pending
