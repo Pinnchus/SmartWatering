@@ -1,7 +1,7 @@
 # SmartWatering
 
 This is a work in progess
-SmartWatering works in Raspberry Pi Zero W, with micropython. 
+SmartWatering works in Raspberry Pi Zero W, with micropython and LVGL.
 Its using 3.5RPI Display with direct FB and touch
 
 Current the following is running ok:
@@ -22,4 +22,4 @@ Smart watering using weather forecast data, sensor data
 Show Sensor data graphics
 
 IMPORTANT
-In order to get touch working, I've replaced the evedev.py with the included one. But it may not be necessary if the classes are extended correctly.
+In order to get touch working, I've replaced the evedev.py (./lib/lv_bindings/driver/linux/evdev.py) with the included one. But it may not be necessary if the classes are extended correctly.
